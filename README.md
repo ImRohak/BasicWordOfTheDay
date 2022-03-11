@@ -1,3 +1,4 @@
+![lastCommit](https://img.shields.io/github/last-commit/ImRohak/BasicWordOfTheDay)
 # Word Of The Day
 
 A practice program using React-Native and the Expo CLI. Making use of the Wordnik API and the fetch module in React-Native.
