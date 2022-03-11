@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "wordoftheday",
+    "name": "Word Of The Day",
     "slug": "wordoftheday",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,6 +20,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "rohak.wordoftheday",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
